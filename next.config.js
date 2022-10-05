@@ -4,6 +4,10 @@ const nextConfig = {
   swcMinify: true,
 }
 
+module.exports = {
+  assetPrefix: '/nextjs_portfolio',
+};
+
 module.exports = nextConfig
 
 
