@@ -10,7 +10,5 @@ const nextConfig = {
   assetPrefix: "/nextjs-pages",
 };
 
-
-
 module.exports = nextConfig
 
