@@ -18,7 +18,9 @@
     "react-dom": "18.2.0",
     "react-icons": "^4.4.0",
     "react-router-dom": "^5.2.0",
-    "text-direction": "^1.4.1"
+    "text-direction": "^1.4.1",
+    "react-tooltip": "4.2.21",
+    "@telia/divx-styled-components": "0.1.34"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.12",

@@ -10,6 +10,8 @@ import project4 from '../public/project4.png';
 import project1 from '../public/project1.png';
 import project2 from '../public/project2.png';
 import project3 from '../public/project3.png';
+import design3d from '../public/design3d.png';
+
 import {useState} from 'react';
 
 
@@ -129,7 +131,7 @@ export default function Home() {
             </div>
 
             <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white'>
-              <Image src={project4} width={100} height={100} />
+              <Image src={design3d} width={100} height={100} />
               <h3 className='text-lg font-medium pt-8 pb-2'>لايىھەلەر</h3>
               <p className='py-2'>
                 لايىھەلىرىمنى ياقتۇرغان بولسىڭىز 👍بەلگىسى بېرىشنى ئۇنۇتماڭ
