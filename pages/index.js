@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import { global } from 'styled-jsx/css';
 import {BsFillMoonStarsFill} from 'react-icons/bs';
 import {AiFillTwitterCircle, AiFillLinkedin , AiFillGithub} from 'react-icons/ai';
 import Image  from 'next/image';
