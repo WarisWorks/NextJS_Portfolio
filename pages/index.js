@@ -93,7 +93,7 @@ export default function Home() {
             <br />
 
             <span className='text-2xl text-teal-500'> ئەسەرلىرىم</span>
-            <p className='text-md py-2 leading-8 text-gray-80'>
+            <p className='text-md py-2 leading-8 text-gray-400'>
               ئەسەرلىرىمنى كۆرمەكچى بولسىڭىز <span className='text-teal-500'> <a href="https://www.behance.net/warisruzi" target="blank">Behance</a> ياكى GitHub</span> .ئۇلىنىش ئارقىلىق كۆرسىڭىز بولىدۇ
             </p>
 
