@@ -150,7 +150,7 @@ export default function Home() {
          <section>
           <div>
             <h3 className='text-3xl py-1 text-cyan-600'>ئەسەرلىرىم</h3>
-            <p className='text-md py-2 leading-8 text-gray-80'>
+            <p className='text-md py-2 leading-8 text-gray-400'>
               ئەسەرلىرىمنى كۆرمەكچى بولسىڭىز <span className='text-teal-500'>Behance ياكى GitHub</span> .ئۇلىنىش ئارقىلىق كۆرسىڭىز بولىدۇ
             </p>
           </div>
